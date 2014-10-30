@@ -1,0 +1,4 @@
+services:
+#    ivigasin_user_agent.example:
+#        class: ivigasin\UserAgentBundle\Example
+#        arguments: [@service_id, "plain_value", %parameter%]
